@@ -21,4 +21,4 @@ I'm the kind of person who makes a mess out of stuff that sometimes works. My Gi
 
 You could contact me via [email](mailto:programcake@gmail.com).
 
-Anyway I think should be enough for now. Visit [my website](https://dongle-the-gadget.github.io) if you want more.
+Anyway I think this should be enough for now. Visit [my website](https://dongle-the-gadget.github.io) if you want more.
