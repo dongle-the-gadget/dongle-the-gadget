@@ -19,6 +19,17 @@ I'm **Dongle**!, just a regular dongle.
 
 I'm the kind of person who makes a mess out of stuff that sometimes works. My GitHub is kinda full of trash, but whatever it will be fine, right?
 
+#### Languages
+##### Current
+- C#
+- HTML
+
+##### To be learnt
+- JavaScript
+- TypeScript
+- C++ (Windows API)
+
+#### Contact
 You could contact me via [email](mailto:programcake@gmail.com).
 
 Anyway I think this should be enough for now. Visit [my website](https://dongle-the-gadget.github.io) if you want more.
