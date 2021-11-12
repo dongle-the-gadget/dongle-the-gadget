@@ -23,10 +23,9 @@ I'm the kind of person who makes a mess out of stuff that sometimes works. My Gi
 ##### Current
 - C#
 - HTML
+- TypeScript
 
 ##### To be learnt
-- JavaScript
-- TypeScript
 - C++ (Windows API)
 
 #### Contact
