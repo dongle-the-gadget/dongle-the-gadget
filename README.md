@@ -29,7 +29,11 @@ I'm the kind of person who makes a mess out of stuff that sometimes works. My Gi
 - C++ (Windows API)
 
 #### GitHub Stats
-[![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+These stat cares are created using https://github.com/anuraghazra/github-readme-stats.
+
+![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)
+
+![Dongle's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongle-the-gadget&theme=dark)
 
 #### Contact
 You could contact me via [email](mailto:programcake@gmail.com).
