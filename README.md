@@ -28,6 +28,9 @@ I'm the kind of person who makes a mess out of stuff that sometimes works. My Gi
 ##### To be learnt
 - C++ (Windows API)
 
+#### GitHub Stats
+[![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Contact
 You could contact me via [email](mailto:programcake@gmail.com).
 
