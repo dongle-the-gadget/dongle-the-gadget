@@ -23,6 +23,7 @@ These cards are created using https://github.com/anuraghazra/github-readme-stats
 [![Seltorn](https://github-readme-stats.vercel.app/api/pin/?username=Seltorn&repo=Seltorn&theme=dark&show_owner=true)](https://github.com/Seltorn/Seltorn)
 [![UUPbot](https://github-readme-stats.vercel.app/api/pin/?username=dongle-the-gadget&repo=UUPbot&theme=dark)](https://github.com/dongle-the-gadget/UUPbot)
 [![WinUI](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=microsoft-ui-xaml&show_owner=true&theme=dark)](https://github.com/microsoft/microsoft-ui-xaml)
+[![MicaForEveryone](https://github-readme-stats.vercel.app/api/pin/?username=minusium&repo=MicaForEveryone&theme=dark&show_owner=true)](https://github.com/minusium/MicaForEveryone)
 
 ### GitHub Statistics
 ![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)
