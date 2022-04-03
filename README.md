@@ -20,7 +20,6 @@ These cards are created using https://github.com/anuraghazra/github-readme-stats
 [![WinverUWP](https://github-readme-stats.vercel.app/api/pin/?username=dongle-the-gadget&repo=WinverUWP&theme=dark)](https://github.com/dongle-the-gadget/WinverUWP)
 [![System Backdrop Types](https://github-readme-stats.vercel.app/api/pin/?username=dongle-the-gadget&repo=SystemBackdropTypes&theme=dark)](https://github.com/dongle-the-gadget/SystemBackdropTypes)
 [![RanTodd](https://github-readme-stats.vercel.app/api/pin/?username=RanTodd-Team&repo=RanTodd&theme=dark&show_owner=true)](https://github.com/RanTodd-Team/RanTodd)
-[![Seltorn](https://github-readme-stats.vercel.app/api/pin/?username=Seltorn&repo=Seltorn&theme=dark&show_owner=true)](https://github.com/Seltorn/Seltorn)
 [![UUPbot](https://github-readme-stats.vercel.app/api/pin/?username=dongle-the-gadget&repo=UUPbot&theme=dark)](https://github.com/dongle-the-gadget/UUPbot)
 [![WinUI](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=microsoft-ui-xaml&show_owner=true&theme=dark)](https://github.com/microsoft/microsoft-ui-xaml)
 [![MicaForEveryone](https://github-readme-stats.vercel.app/api/pin/?username=minusium&repo=MicaForEveryone&theme=dark&show_owner=true)](https://github.com/minusium/MicaForEveryone)
