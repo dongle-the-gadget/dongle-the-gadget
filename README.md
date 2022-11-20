@@ -17,8 +17,6 @@ These cards are created using https://github.com/anuraghazra/github-readme-stats
 ## Contact
 You could contact me via [email](mailto:programcake@gmail.com).
 
-Anyway I think this should be enough for now. Visit [my website](https://dongle-the-gadget.github.io) if you want more.
-
 <!--
 # AAAAAAAAA!
 “AAAAAAAAA!”
