@@ -15,7 +15,7 @@ These cards are created using https://github.com/anuraghazra/github-readme-stats
 ![Dongle's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongle-the-gadget&theme=dark)
 
 ## Contact
-You could contact me via [email](mailto:programcake@gmail.com).
+You can contact me via [email](mailto:programcake@gmail.com).
 
 <!--
 # AAAAAAAAA!
