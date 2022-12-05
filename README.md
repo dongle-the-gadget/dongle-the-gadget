@@ -1,7 +1,9 @@
 # Hi there 👋
 I'm **Dongle**!, just a regular dongle.
 
-I'm the kind of person who makes a mess out of stuff that sometimes works. Co-maintainer of [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone).
+I'm the kind of person who makes a mess out of stuff that sometimes works.
+
+Co-maintainer of [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone).
 
 ## Languages
 I'm mostly *proficient* at C#, and know a bit of C++ and TypeScript.
