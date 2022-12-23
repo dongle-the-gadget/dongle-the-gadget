@@ -11,14 +11,9 @@ I'm mostly *proficient* at C#, and know a bit of C++ and TypeScript.
 ## GitHub cards
 These cards are created using https://github.com/anuraghazra/github-readme-stats.
 
-### GitHub Statistics
 ![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)
 
 ![Dongle's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongle-the-gadget&theme=dark)
-
-## Contact
-You can contact me via [email](mailto:programcake@gmail.com).
-
 <!--
 # AAAAAAAAA!
 “AAAAAAAAA!”
