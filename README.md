@@ -8,12 +8,15 @@ Co-maintainer of [Mica For Everyone](https://github.com/MicaForEveryone/MicaForE
 ## Languages
 I'm mostly *proficient* at C#, and know a bit of C++ and TypeScript.
 
+<!--
 ## GitHub cards
 These cards are created using https://github.com/anuraghazra/github-readme-stats.
 
 ![Dongle's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongle-the-gadget&theme=dark)
 
 ![Dongle's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dongle-the-gadget&theme=dark)
+-->
+
 <!--
 # AAAAAAAAA!
 “AAAAAAAAA!”
