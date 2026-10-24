@@ -1,14 +1,4 @@
 # Hi there 👋
-My name is Minh Dang Binh, aka Dongle in many places online.
-
-I usually use C#, but occasionally C++ and TypeScript. My area of interest is Windows application development.
-
-## Projects
-- [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone), maintainer
-- [NanaZip](https://github.com/M2Team/NanaZip), maintainer and [advisor for the Benevolent Dictators For Life (BDFL)](https://github.com/M2Team/NanaZip/blob/eddc656cac637d245c7322e181929a766af4fa8a/Documents/People.md#consultants-and-benevolent-dictator-for-life-candidates)
-
-<!--
-# Hi there 👋
 I'm **Dongle**, just a regular dongle.
 
 I'm the kind that makes a mess out of stuff that sometimes works.
@@ -17,7 +7,6 @@ Co-maintainer of [Mica For Everyone](https://github.com/MicaForEveryone/MicaForE
 
 ## Languages
 I'm mostly *proficient* at C#, and know a bit of C++ and TypeScript.
--->
 
 <!--
 ## GitHub cards
